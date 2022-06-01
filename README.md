@@ -1,6 +1,6 @@
 # IDE-3D: Interactive Disentangled Editing for High-Resolution 3D-aware Portrait Synthesis</sub>
 
-![Teaser image](./teaser.jpg)
+![Teaser image](teaser.jpg)
 
 **IDE-3D: Interactive Disentangled Editing for High-Resolution 3D-aware Portrait Synthesis**<br>
 Jingxiang Sun, Xuan Wang, Yichun Shi, Lizhen Wang, Jue Wang, Yebin Liu<br>
